@@ -1,5 +1,3 @@
-# EduLab (Crab Вики)
-
 ## Добро пожаловать на EduLab!
 
 A group of novice developers (Crab) is creating a special educational system **EduLab** that helps students improve their knowledge, open their minds, and develop their imagination!
